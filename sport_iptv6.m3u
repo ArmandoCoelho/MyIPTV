@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ArmandoCoelho/MyIPTV/refs/heads/main/Sport_TV1.png" group-title="Desporto",SPORT TV 1
+http://flixxxx.ddns.net:8080/armandojpcoelho/9265554/63896
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ArmandoCoelho/MyIPTV/refs/heads/main/Sport_TV1.png" group-title="Desporto",SPORT TV 1
 http://flixxxx.ddns.net:8080/armandojpcoelho/9265554/63897
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ArmandoCoelho/MyIPTV/refs/heads/main/Sport_TV1.png" group-title="Desporto",SPORT TV 1
+http://flixxxx.ddns.net:8080/armandojpcoelho/9265554/63898
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ArmandoCoelho/MyIPTV/refs/heads/main/Sport_TV1.png" group-title="Desporto",SPORT TV 1
+http://flixxxx.ddns.net:8080/armandojpcoelho/9265554/74825
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ArmandoCoelho/MyIPTV/refs/heads/main/Sport_TV2.png" group-title="Desporto",SPORT TV 2
 http://flixxxx.ddns.net:8080/armandojpcoelho/9265554/181680
@@ -14,9 +20,15 @@ http://flixxxx.ddns.net:8080/armandojpcoelho/9265554/181679
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ArmandoCoelho/MyIPTV/refs/heads/main/Sport_TV4.png" group-title="Desporto",SPORT TV 4
 http://flixxxx.ddns.net:8080/armandojpcoelho/9265554/27824
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ArmandoCoelho/MyIPTV/refs/heads/main/Sport_TV4.png" group-title="Desporto",SPORT TV 4
+http://flixxxx.ddns.net:8080/armandojpcoelho/9265554/181678
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ArmandoCoelho/MyIPTV/refs/heads/main/Sport_TV5.png" group-title="Desporto",SPORT TV 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ArmandoCoelho/MyIPTV/refs/heads/main/Sport_TV5.png" group-title="Desporto",Sport TV 5
+http://flixxxx.ddns.net:8080/armandojpcoelho/9265554/7313
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ArmandoCoelho/MyIPTV/refs/heads/main/Sport_TV5.png" group-title="Desporto",Sport TV 5
 http://flixxxx.ddns.net:8080/armandojpcoelho/9265554/7314
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ArmandoCoelho/MyIPTV/refs/heads/main/Sport_TV5.png" group-title="Desporto",Sport TV 5
+http://flixxxx.ddns.net:8080/armandojpcoelho/9265554/27823
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ArmandoCoelho/MyIPTV/refs/heads/main/Sport_TV6.png" group-title="Desporto",SPORT TV 6
 http://flixxxx.ddns.net:8080/armandojpcoelho/9265554/42781
@@ -32,19 +44,37 @@ http://flixxxx.ddns.net:8080/armandojpcoelho/9265554/128391
 http://flixxxx.ddns.net:8080/armandojpcoelho/9265554/7319
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ArmandoCoelho/MyIPTV/refs/heads/main/BTV.png" group-title="Desporto",BTV
 http://flixxxx.ddns.net:8080/armandojpcoelho/9265554/7320
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ArmandoCoelho/MyIPTV/refs/heads/main/BTV.png" group-title="Desporto",BTV
+http://flixxxx.ddns.net:8080/armandojpcoelho/9265554/7318
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ArmandoCoelho/MyIPTV/refs/heads/main/BTV.png" group-title="Desporto",BTV
+http://flixxxx.ddns.net:8080/armandojpcoelho/9265554/96484
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ArmandoCoelho/MyIPTV/refs/heads/main/BTV.png" group-title="Desporto",BTV
+http://flixxxx.ddns.net:8080/armandojpcoelho/9265554/181718
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ArmandoCoelho/MyIPTV/refs/heads/main/DAZN_1.png" group-title="Desporto",DAZN 1
 http://flixxxx.ddns.net:8080/armandojpcoelho/9265554/96325
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ArmandoCoelho/MyIPTV/refs/heads/main/DAZN_1.png" group-title="Desporto",DAZN 1
+http://flixxxx.ddns.net:8080/armandojpcoelho/9265554/7289
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ArmandoCoelho/MyIPTV/refs/heads/main/DAZN_1.png" group-title="Desporto",DAZN 1
+http://flixxxx.ddns.net:8080/armandojpcoelho/9265554/7290
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ArmandoCoelho/MyIPTV/refs/heads/main/DAZN_1.png" group-title="Desporto",DAZN 1
+http://flixxxx.ddns.net:8080/armandojpcoelho/9265554/29266
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ArmandoCoelho/MyIPTV/refs/heads/main/DAZN_2.png" group-title="Desporto",DAZN 2
 http://flixxxx.ddns.net:8080/armandojpcoelho/9265554/134325
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ArmandoCoelho/MyIPTV/refs/heads/main/DAZN_2.png" group-title="Desporto",DAZN 2
 http://flixxxx.ddns.net:8080/armandojpcoelho/9265554/132115
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ArmandoCoelho/MyIPTV/refs/heads/main/DAZN_2.png" group-title="Desporto",DAZN 2
+http://flixxxx.ddns.net:8080/armandojpcoelho/9265554/7293
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ArmandoCoelho/MyIPTV/refs/heads/main/DAZN_2.png" group-title="Desporto",DAZN 2
+http://flixxxx.ddns.net:8080/armandojpcoelho/9265554/7292
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ArmandoCoelho/MyIPTV/refs/heads/main/DAZN_3.png" group-title="Desporto",DAZN 3
 http://flixxxx.ddns.net:8080/armandojpcoelho/9265554/7294
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ArmandoCoelho/MyIPTV/refs/heads/main/DAZN_3.png" group-title="Desporto",DAZN 3
 http://flixxxx.ddns.net:8080/armandojpcoelho/9265554/134322
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ArmandoCoelho/MyIPTV/refs/heads/main/DAZN_3.png" group-title="Desporto",DAZN 3
+http://flixxxx.ddns.net:8080/armandojpcoelho/9265554/7295
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ArmandoCoelho/MyIPTV/refs/heads/main/DAZN_4.png" group-title="Desporto",DAZN 4
 http://flixxxx.ddns.net:8080/armandojpcoelho/9265554/134317
